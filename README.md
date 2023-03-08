@@ -1,2 +1,2 @@
-# Portfolio
+# Hope Jolles - Portfolio
 Portfolio of Technical Projects and Training
