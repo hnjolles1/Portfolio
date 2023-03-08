@@ -1,2 +1,4 @@
 # Hope Jolles - Portfolio
-Portfolio of Technical Projects and Training
+The following includes samples of content from a portfolio of Technical Projects and Training.
+
+
