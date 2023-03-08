@@ -27,5 +27,7 @@ The [API PROGRAMMER GUIDE OVERVIEW](https://drive.google.com/drive/folders/1D-2X
 - Software API Sample Code for Microsoft Visual C#
 - Best use scenarios for requesting and retrieving content
 
+# Community Support Portals
 
+(in progress)
 
