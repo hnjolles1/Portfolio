@@ -1,5 +1,5 @@
 # Hope Jolles - Portfolio
-The following includes samples of content from a portfolio of Technical Projects and Training.
+The following includes samples of content from a portfolio of Technical Documentation and Training projects I have developed from scratch and source content including processes for automation and CI/CD publishing as docs-as-code.
 
 ## API Documentation and Training
 
