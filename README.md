@@ -5,12 +5,19 @@ The following includes samples of content from a portfolio of Technical Projects
 
 [**Livepeer**](https://docs.livepeer.org/)
 
+Web3 Multi-Media Streaming Community Portal 
+
 [**CasperLabs**](https://docs.casper.network/)
+
+Blockchain Development Platform Community Portal for Orchestrators and DApp Developers
 
 [**Digital Asset**](https://docs.daml.com/)
 
+DAML Blockchain development language developer portal with SDK. 
+
+
 **AI Conversational Platform**
-*Banking and Investment Services*
+Banking and Investment Services Onboarding and Conversational API Developer Documentation 
 
 This AI [Enterprise API (EAPI)](https://drive.google.com/drive/folders/1D-2XiRiNe20NqlkmTamIsS623QAo6Lq9?usp=sharing) is a REST API specification to authenticate customers and integrate customer data with the conversational AI platform.
 
