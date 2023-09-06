@@ -3,6 +3,12 @@ The following includes samples of content from a portfolio of Technical Projects
 
 ## API Documentation and Training
 
+[**Livepeer**]([url](https://docs.livepeer.org/))
+
+[**CasperLabs**]([url](https://docs.casper.network/))
+
+[**Digital Asset**]([url](https://docs.daml.com/))
+
 **AI Conversational Platform**
 *Banking and Investment Services*
 
