@@ -32,7 +32,7 @@ Click on links to sample sites built with [Slate](https://github.com/slatedocs/s
 3. Open the index file
 
 ### Data Extraction Services Platform 
-The [API PROGRAMMER GUIDE OVERVIEW](https://drive.google.com/drive/folders/1D-2XiRiNe20NqlkmTamIsS623QAo6Lq9?usp=sharing), one of a three-volume set for programming with the Data Extraction Services Platform API, covers basic introductory information about the platform and describes the content and features that you can access with it including: 
+The [API PROGRAMMER GUIDE OVERVIEW](https://drive.google.com/drive/folders/1CMIA-Ql_ZSHiE8vhC6_5n5Sl3IkpxMDu?usp=drive_link), one of a set for programming with the Data Extraction Services Platform API, covers basic introductory information about the platform and describes the content and features that you can access with it including: 
 - Software API Sample Code for Microsoft Visual C#
 - Best use scenarios for requesting and retrieving content
 
